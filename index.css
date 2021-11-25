@@ -56,7 +56,7 @@ a
 }
 .banner-image
 {  
-     background-image: url("intro.jpg") ;
+     background-image: url("./intro.jpg") ;
      padding-bottom:200px;
      margin-top:10px;
      color:#f8f8f8;
